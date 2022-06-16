@@ -1,0 +1,11 @@
+.\objects\i2c.o: I2C.cpp
+.\objects\i2c.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\i2c.o: D:\Keil\Packs\Keil\STM32F7xx_DFP\2.12.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h
+.\objects\i2c.o: D:\Keil\Packs\Keil\STM32F7xx_DFP\2.12.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h
+.\objects\i2c.o: D:\Keil\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm7.h
+.\objects\i2c.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: D:\Keil\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\i2c.o: D:\Keil\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\i2c.o: D:\Keil\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\i2c.o: D:\Keil\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\i2c.o: D:\Keil\Packs\Keil\STM32F7xx_DFP\2.12.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h
